@@ -120,7 +120,7 @@ h4 {
     flex-direction: row;
     align-items: center;
     gap: 12px;
-    background-color: #0e2954;
+    background-color: #7ca8ef;
     border-radius: 8px;
     padding: 24px;
     width: 180px;
@@ -144,4 +144,21 @@ footer {
     background-color: #0e2954;
     color: white;
     font-weight: 700;
+}
+#projects{
+    padding: 0 80px;
+    text-align: center;
+}
+.project-container{
+    margin-top: 38px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.project-image{
+    border-radius: 12px;
+    width: 500px;
+    height: 300px;
 }
