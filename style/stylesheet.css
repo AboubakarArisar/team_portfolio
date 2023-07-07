@@ -54,6 +54,7 @@ h4 {
 
 .space-50 {
     width: 50%;
+    line-height: 25px;
 }
 
 .content-center {
@@ -166,6 +167,6 @@ footer {
 }
 .project-image{
     border-radius: 12px;
-    width: 500px;
+    width: 400px;
     height: 300px;
 }
