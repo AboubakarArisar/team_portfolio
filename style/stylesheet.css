@@ -109,6 +109,7 @@ h4 {
     border-radius: 50%;
     width :175px;
     height: 170px;
+    object-fit: cover;
 }
 .card:hover{
     box-shadow: 8px 8px #333;
